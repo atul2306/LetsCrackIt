@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    justify-content: center;
+    background-color: rgba(81, 13, 216, 0.539);
+    align-items: center;
+    width: 100vw;
+    
+}
+.container1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 60vw;
+    height: auto;
+}
+.container2{
+    display: flex;
+    flex-direction: column;
+    width: 60vw;
+    height: auto;
+    padding: 24px 34px;
+}
+.container3{
+    display: flex;
+    margin-bottom: 15px;
+    border: none;
+    padding: 7px 7px;
+}

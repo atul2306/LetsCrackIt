@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100vw;
+    height: 100vh;
+}
+.container1{
+    display: flex;
+    width: 30%;
+    font-weight: bolder;
+    height: 30%;
+    background-color: rgba(0, 0, 0, 0.265);
+    align-items: center;
+    justify-content: center;
+    font-size: x-large;
+    cursor: pointer;
+}
